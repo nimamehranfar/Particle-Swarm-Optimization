@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\nm\documents\visual studio 2017\projects\consoleapplication91\consoleapplication91\main.cpp(41): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\nm\documents\visual studio 2017\projects\consoleapplication91\consoleapplication91\main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nm\documents\visual studio 2017\projects\consoleapplication91\consoleapplication91\main.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication91.vcxproj -> C:\Users\NM\documents\visual studio 2017\Projects\ConsoleApplication91\Debug\ConsoleApplication91.exe
+  ConsoleApplication91.vcxproj -> C:\Users\NM\documents\visual studio 2017\Projects\ConsoleApplication91\Debug\ConsoleApplication91.pdb (Partial PDB)
